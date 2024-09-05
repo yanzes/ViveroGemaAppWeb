@@ -25,7 +25,7 @@
 ##Instala las dependencias:
 
   ```bash
-  Copiar código
+ 
   cd vivero-gema
   npm install
  ```
@@ -36,7 +36,7 @@ Importa el archivo schema.sql en tu base de datos.
 Inicia el servidor:
 
  ```bash
-Copiar código
+
 npm start
 ```
 ##Uso
